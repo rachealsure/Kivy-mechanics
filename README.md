@@ -1,6 +1,7 @@
 # Kivy-mechanics
 ## Author: Marion Racheal Sure
-
+this is a python based web app that allows motorists to request for a mechanic when/if their vehicle breaks down. 
+the web app has been created using Kivy which is an opensource Python framework that allows the creation of multiplatform GUI applications. 
 
 ### Copyright and License (MIT)
 Copyright (c) 2023 Sure Marion Racheal
